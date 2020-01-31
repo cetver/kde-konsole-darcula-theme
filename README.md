@@ -15,7 +15,7 @@ chmod +x install
 
 or
 
-copy https://github.com/cetver/kde-konsole-darcula-theme/Darkula.colorscheme to `$HOME/.local/share/konsole/Darkula.colorscheme`
+copy [Darkula.colorscheme](https://github.com/cetver/kde-konsole-darcula-theme/raw/master/Darkula.colorscheme) to `$HOME/.local/share/konsole/Darkula.colorscheme`
 
 # Miscellaneous
 
