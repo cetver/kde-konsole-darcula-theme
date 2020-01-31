@@ -1,4 +1,4 @@
- #!/usr/bin/env bash
+#!/usr/bin/env bash
 
 SCRIPT=$(readlink -f "$0")
 SCRIPT_PATH=$(dirname "$SCRIPT")
@@ -6,7 +6,7 @@ SCRIPT_PATH=$(dirname "$SCRIPT")
 COPY_FROM="$SCRIPT_PATH/Darkula.colorscheme"
 COPY_TO="$HOME/.local/share/konsole"
 
-cp --interactive --verbose $COPY_FROM $COPY_TO
+cp --interactive --verbose "$COPY_FROM" "$COPY_TO"
 
 echo 'Restart the Konsole'
 echo 'Mouse2 -> Edit Current Profile -> Appearance -> Darkula -> OK'
