@@ -1,10 +1,10 @@
 # Look and Feel
 
-![git](https://github.com/cetver/kde-konsole-darcula-theme/raw/assets/git.png)
-![composer](https://github.com/cetver/kde-konsole-darcula-theme/raw/assets/composer.png)
-![node](https://github.com/cetver/kde-konsole-darcula-theme/raw/assets/node.png)
-![ll](https://github.com/cetver/kde-konsole-darcula-theme/raw/assets/ll.png)
-![nano](https://github.com/cetver/kde-konsole-darcula-theme/raw/assets/nano.png)
+![git](https://github.com/cetver/kde-konsole-darcula-theme/blob/master/assets/git.png)
+![composer](https://github.com/cetver/kde-konsole-darcula-theme/blob/master/assets/composer.png)
+![node](https://github.com/cetver/kde-konsole-darcula-theme/blob/master/assets/node.png)
+![ll](https://github.com/cetver/kde-konsole-darcula-theme/blob/master/assets/ll.png)
+![nano](https://github.com/cetver/kde-konsole-darcula-theme/blob/master/assets/nano.png)
 
 # Install 
 
