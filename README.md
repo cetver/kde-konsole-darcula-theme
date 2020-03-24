@@ -12,6 +12,8 @@
 
 # Install 
 
+- Install
+
 ```
 chmod +x install
 ./install
@@ -21,8 +23,12 @@ or
 
 copy [Darkula.colorscheme](https://github.com/cetver/kde-konsole-darcula-theme/raw/master/Darkula.colorscheme) to `$HOME/.local/share/konsole/Darkula.colorscheme`
 
+- Restart the Konsole
+
+- Select theme: Mouse2 -> Edit Current Profile -> Appearance -> Darkula -> OK
+
 # Miscellaneous
 
 OS Theme: [Arc Dark](https://store.kde.org/p/1167640/)
 
-Terminal theme: [Agnoster](https://github.com/agnoster/agnoster-zsh-theme)   
+Terminal theme: [powerlevel10k](https://github.com/romkatv/powerlevel10k)   
